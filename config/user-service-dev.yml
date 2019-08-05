@@ -6,7 +6,7 @@ spring:
     name: user-service
     
 server:
-  port: 8101
+  port: 8103
   
 eureka:
   client:
